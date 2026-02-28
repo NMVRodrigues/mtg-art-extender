@@ -1,0 +1,12 @@
+[project]
+name = "mtg-art-extender"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "numpy>=2.4.2",
+    "pandas>=3.0.1",
+    "tqdm>=4.67.3",
+]
