@@ -1,0 +1,3 @@
+- unet tests
+- encoder decoder tests
+- sample notebook with the path hack
